@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Kundana Nittala's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Reasons Why CS 193 Is Essential for CS and DS Students
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CS 193 Defined
+CS 193 or CS 19300 is known as the Tools class for CS/DS majors. These majors have a lot of coding involved, most of which occurs in various dedicated platforms.
 
-### Markdown
+#### So Why is CS 193 Essential??
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Great TAs who have taken CS and DS courses before and are able to help you know what to expect based on their experiences.
+- A way to focus on how the tools and programs used in CS/DS work apart from learning how to code in CS 180.
+- Can ask questions and feel comfortable speaking to people who are closer to your age range.
 
-```markdown
-Syntax highlighted code block
+##### Support or Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with a CS tool? Check out our [Brightspace Page](https://purdue.brightspace.com/d2l/home/335650) or contact Arya Sharma: sharm388@purdue.edu, Caleb Ahn: ahn99@purdue.edu, Shashank Kumar: kumar406@purdue.edu, or Sweta Saravanan: saravan4@purdue.edu and they can help you sort it out.
